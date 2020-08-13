@@ -16,7 +16,6 @@
 	<a href="#-layout">Layout</a> • 
  	<a href="#-como-executar-o-projeto">Como executar</a> • 
   <a href="#-tecnologias">Tecnologias</a> • 
- 	<a href="#-autor">Autor</a> • 
  	<a href="#user-content--licença">Licença</a>
 </p>
 
@@ -102,4 +101,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 Este projeto esta sobe a licença [MIT](./LICENSE.md).
 
-Feito por Gabriel Rios 👋🏻 [Entre em contato!](https://www.linkedin.com/in/grioos/)
+Feito por Elano Evaristo 👋🏻 [Entre em contato!](https://www.linkedin.com/in/elano-evaristo/)
